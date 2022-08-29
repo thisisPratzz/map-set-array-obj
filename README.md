@@ -3,7 +3,9 @@ Result we found out are as follows
 
 
 map create: 3.274s
+
 map  4999999
+
 map search: 0.631ms
 whole file map: 3.671s
 Array create: 378.476ms
